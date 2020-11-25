@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rogir/CLionProjects/zdc/main.cpp
+iostream
+-
+iomanip
+/home/rogir/CLionProjects/zdc/iomanip
+
